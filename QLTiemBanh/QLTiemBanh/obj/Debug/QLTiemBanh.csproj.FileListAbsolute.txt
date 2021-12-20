@@ -1,0 +1,17 @@
+C:\Users\Ngan\Documents\BTL_LapTrinhWin\QLTiemBanh\QLTiemBanh\bin\Debug\QLTiemBanh.exe.config
+C:\Users\Ngan\Documents\BTL_LapTrinhWin\QLTiemBanh\QLTiemBanh\bin\Debug\QLTiemBanh.exe
+C:\Users\Ngan\Documents\BTL_LapTrinhWin\QLTiemBanh\QLTiemBanh\bin\Debug\QLTiemBanh.pdb
+C:\Users\Ngan\Documents\BTL_LapTrinhWin\QLTiemBanh\QLTiemBanh\obj\Debug\QLTiemBanh.csprojAssemblyReference.cache
+C:\Users\Ngan\Documents\BTL_LapTrinhWin\QLTiemBanh\QLTiemBanh\obj\Debug\QLTiemBanh.Form1.resources
+C:\Users\Ngan\Documents\BTL_LapTrinhWin\QLTiemBanh\QLTiemBanh\obj\Debug\QLTiemBanh.GUI.FormPhieuNhap.resources
+C:\Users\Ngan\Documents\BTL_LapTrinhWin\QLTiemBanh\QLTiemBanh\obj\Debug\QLTiemBanh.Properties.Resources.resources
+C:\Users\Ngan\Documents\BTL_LapTrinhWin\QLTiemBanh\QLTiemBanh\obj\Debug\QLTiemBanh.csproj.GenerateResource.cache
+C:\Users\Ngan\Documents\BTL_LapTrinhWin\QLTiemBanh\QLTiemBanh\obj\Debug\QLTiemBanh.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\Documents\BTL_LapTrinhWin\QLTiemBanh\QLTiemBanh\obj\Debug\QLTiemBanh.exe
+C:\Users\Ngan\Documents\BTL_LapTrinhWin\QLTiemBanh\QLTiemBanh\obj\Debug\QLTiemBanh.pdb
+C:\Users\Ngan\Documents\BTL_LapTrinhWin\QLTiemBanh\QLTiemBanh\obj\Debug\QLTiemBanh.GUI.FormNguyenLieu.resources
+C:\Users\Ngan\Documents\BTL_LapTrinhWin\QLTiemBanh\QLTiemBanh\obj\Debug\QLTiemBanh.GUI.FormCT_HoaDon.resources
+C:\Users\Ngan\Documents\BTL_LapTrinhWin\QLTiemBanh\QLTiemBanh\obj\Debug\QLTiemBanh.GUI.FormCT_PhieuNhap.resources
+C:\Users\Ngan\Documents\BTL_LapTrinhWin\QLTiemBanh\QLTiemBanh\obj\Debug\QLTiemBanh.Menu.resources
+C:\Users\Ngan\Documents\BTL_LapTrinhWin\QLTiemBanh\QLTiemBanh\obj\Debug\QLTiemBanh.GUI.FormBanh.resources
+C:\Users\Ngan\Documents\BTL_LapTrinhWin\QLTiemBanh\QLTiemBanh\obj\Debug\QLTiemBanh.GUI.FormHoaDon.resources
